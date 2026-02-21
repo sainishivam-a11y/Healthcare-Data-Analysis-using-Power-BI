@@ -12,8 +12,7 @@ Created an interactive dashboard using Power BI to reveal key trends in hospital
 1. Key Technologies and Skills
 2. Features
 3. Contributing
-4. License
-5. Contact
+4. Contact
 
 <br />
 
@@ -83,8 +82,7 @@ The healthcare dataset includes features like Date, ID, Gender, Age, Race, Momen
 
    - **Admin Flag Distribution:** **50.04%** of visitors are fully registered patients, while **49.96%** are either visitors or individuals not registered for treatment. This indicates a significant portion of the hospital's traffic consists of non-registered individuals.
 
-![](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_1.JPG)
-![](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_2.JPG)
+
 
 <br />
 
@@ -94,17 +92,10 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 <br />
 
-**License**
-
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
 <br />
 
 **Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
+📧 Email: shubhamsainikrj@gmai.com
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
