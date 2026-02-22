@@ -96,6 +96,7 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 **Contact**
 
-📧 Email: shubhamsainikrj@gmai.com
+📧 Email: shubhamsainikrj@gmail.com
+
 
 
